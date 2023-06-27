@@ -1,0 +1,5 @@
+.name{
+    border: dotted;
+    border-width: thin;
+    justify-content: flex-start;
+}
